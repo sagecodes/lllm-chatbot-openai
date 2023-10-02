@@ -1,0 +1,10 @@
+__pycache__/
+
+flagged/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
